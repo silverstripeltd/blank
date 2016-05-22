@@ -1,2 +1,2 @@
-infrastructure: master
-base: debian-jessie
+infrastructure: nfs-failover-2.0
+base: debian-wheezy
