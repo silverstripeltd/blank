@@ -1,3 +1,3 @@
 <?php
 
-echo "fragmenting core-dumps..."
+echo "fragmenting core-dumps...";
