@@ -1,1 +1,4 @@
 infrastructure: ^3.10.0
+url_rules:
+  demo_v4:
+    - '^/assets/': 'apache'
